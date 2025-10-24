@@ -175,10 +175,6 @@ Currently configured to allow requests from:
 - `http://localhost:4200` (Angular development)
 - Configure additional origins in `PetController` or `WebConfig`
 
-## 📝 License
-
-This project is open source and available under the MIT License.
-
 ## 👥 Contributors
 
 - **LozanovskaS** - Initial work
