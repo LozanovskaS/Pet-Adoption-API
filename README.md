@@ -2,17 +2,6 @@
 
 A RESTful API for managing pet adoption services, built with Spring Boot and Java 21. This backend supports pet listings, adoption applications, user management, comments, and image handling.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Technologies](#technologies)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [API Endpoints](#api-endpoints)
-- [Database Configuration](#database-configuration)
-- [Running the Application](#running-the-application)
-- [Deployment](#deployment)
-
 ## ✨ Features
 
 - **Pet Management**: Create, read, update, and delete pet listings
